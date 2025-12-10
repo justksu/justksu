@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="color: #7E3FCE; font-size: 3em; margin-bottom: 10px;">
+<h1 style="color: #7E3FCE; font-size: 8em; margin-bottom: 10px;">
 Ｖａｕｌｔ３ ＤＡＯ
 </h1>
 
