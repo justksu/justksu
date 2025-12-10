@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="color: #7E3FCE; font-size: 8em; margin-bottom: 10px;">
-Ｖａｕｌｔ３ ＤＡＯ
+ 🏦 ＶＡＵＬＴ３ ＤＡＯ
 </h1>
 
 <h3 style="color: #A78BFA; font-weight: normal; margin-bottom: 40px;">
