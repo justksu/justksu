@@ -19,7 +19,7 @@ Decentralized Asset Management & Governance
 
 <div style="max-width: 850px; padding: 30px; background-color: #fafafa; border-radius: 12px; margin: 20px auto; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
 
-<p style="font-size: 1.1em; line-height: 1.6; color: #333; text-align: center; margin: 0;">
+<p style="font-size: 1.6em; line-height: 3.6; color: #333; text-align: center; margin: 0;">
 <em>We are a community of Web3 enthusiasts who are committed to developing different projects and helping them grow by collaborating with other projects. Our goal — to provide useful information and opportunities for development.</em>
 </p>
 
