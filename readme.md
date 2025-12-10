@@ -6,18 +6,21 @@
 
 <div align="center">
 
-<!-- Кнопки с градиентом и тенью -->
+<!-- Современные кнопки с hover-эффектом -->
 <a href="https://vault3.xyz/" target="_blank">
-  <img src="https://img.shields.io/badge/-OFFICIAL_WEBSITE-7E3FCE?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117&color=7E3FCE" alt="Website">
+  <img src="https://img.shields.io/badge/Website-7E3FCE?style=for-the-badge&logo=link&logoColor=white&labelColor=161b22" alt="Website" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="transition: opacity 0.3s;">
 </a>
+<span style="margin: 0 5px;"></span>
 <a href="https://app.vault3.xyz" target="_blank">
-  <img src="https://img.shields.io/badge/-LAUNCH_DAPP-7E3FCE?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0d1117&color=7E3FCE" alt="DApp">
+  <img src="https://img.shields.io/badge/DApp-7E3FCE?style=for-the-badge&logo=walletconnect&logoColor=white&labelColor=161b22" alt="DApp" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="transition: opacity 0.3s;">
 </a>
+<span style="margin: 0 5px;"></span>
 <a href="https://app.vault3.xyz/governance" target="_blank">
-  <img src="https://img.shields.io/badge/-DAO_GOVERNANCE-7E3FCE?style=for-the-badge&logo=governor&logoColor=white&labelColor=0d1117&color=7E3FCE" alt="Governance">
+  <img src="https://img.shields.io/badge/Governance-7E3FCE?style=for-the-badge&logo=governor&logoColor=white&labelColor=161b22" alt="Governance" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="transition: opacity 0.3s;">
 </a>
+<span style="margin: 0 5px;"></span>
 <a href="mailto:contact@vault3.xyz">
-  <img src="https://img.shields.io/badge/-CONTACT_US-7E3FCE?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117&color=7E3FCE" alt="Contact">
+  <img src="https://img.shields.io/badge/Contact-7E3FCE?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=161b22" alt="Contact" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'" style="transition: opacity 0.3s;">
 </a>
 
 </div>
